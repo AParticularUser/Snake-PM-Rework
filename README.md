@@ -21,6 +21,9 @@ A move-set overhaul for snake in SSBU, inspired by the PM/P+ mod for SSBB.
 - pressing down-special durring down-taunt will make snake place a c4 while in his box
   - pressing down-special again will make snake exit the box and detonate the c4
 
+## Instalation
+Down load the latest release, unzip, and place in your "Mods" folder.
+
 ### --to-do--
 - add new voice line for side-taunt 
 - change up-tilt to ???
